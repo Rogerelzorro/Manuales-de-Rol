@@ -4,3 +4,5 @@ M[[:space:]]20.pdf filter=lfs diff=lfs merge=lfs -text
 Pathfinder[[:space:]]RPG[[:space:]]2e[[:space:]]-[[:space:]]Devir[[:space:]]-[[:space:]]Bestiario[[:space:]][PF202].pdf filter=lfs diff=lfs merge=lfs -text
 Anima[[:space:]]-[[:space:]]Beyond[[:space:]]Fantasy[[:space:]]-[[:space:]]Gaia[[:space:]]Volumen[[:space:]]2,[[:space:]]Más[[:space:]]Allá[[:space:]]del[[:space:]]espejo.pdf filter=lfs diff=lfs merge=lfs -text
 Pathfinder[[:space:]]RPG[[:space:]]2e[[:space:]]-[[:space:]]Devir[[:space:]]-[[:space:]]Bestiario.pdf filter=lfs diff=lfs merge=lfs -text
+Pathfinder[[:space:]]RPG[[:space:]]2e[[:space:]]-[[:space:]]Devir[[:space:]]-[[:space:]]Caja[[:space:]]de[[:space:]]Iniciación.7z filter=lfs diff=lfs merge=lfs -text
+Pathfinder_RPG_2e_Devir_Presagios_Perdidos_La_Extensión_de_Mwangi.pdf filter=lfs diff=lfs merge=lfs -text
