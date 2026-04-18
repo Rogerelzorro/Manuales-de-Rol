@@ -1,0 +1,201 @@
+%!Adobe-FontList 1.22
+%Locale:0xc0a
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AkzidenzGrotesk-Black
+FamilyName:Akzidenz Grotesk Roman
+StyleName:Bold
+FullName:Akzidenz Grotesk Roman Bold
+MenuName:Akzidenz Grotesk Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Almacenamiento\OneDrive\Biblioteca\JdR - RPG\Moderno - Modern\Unknown Armies\3rd edition\Statosphere\statosphere template\Document fonts\Akzidenz Grotesk Roman Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:75360
+FileModTime:1604336807
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Akzidenz Grotesk Roman Bold
+NameArray:0,Win,1,Akzidenz Grotesk Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Dax-Bold
+FamilyName:Dax
+StyleName:Bold
+FullName:Dax-Bold
+MenuName:Dax
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Almacenamiento\OneDrive\Biblioteca\JdR - RPG\Moderno - Modern\Unknown Armies\3rd edition\Statosphere\statosphere template\Document fonts\Dax-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29056
+FileModTime:1604336808
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Dax-Bold
+NameArray:0,Win,1,Dax
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Dax-Light
+FamilyName:Dax Light
+StyleName:Regular
+FullName:Dax-Light
+MenuName:Dax Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Almacenamiento\OneDrive\Biblioteca\JdR - RPG\Moderno - Modern\Unknown Armies\3rd edition\Statosphere\statosphere template\Document fonts\Dax-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28532
+FileModTime:1604336808
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Dax-Light
+NameArray:0,Win,1,Dax Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Dax-Medium
+FamilyName:Dax
+StyleName:Medium
+FullName:Dax-Medium
+MenuName:Dax
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Almacenamiento\OneDrive\Biblioteca\JdR - RPG\Moderno - Modern\Unknown Armies\3rd edition\Statosphere\statosphere template\Document fonts\Dax-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29004
+FileModTime:1604336808
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Dax-Medium
+NameArray:0,Win,1,Dax
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaEF-Book
+FamilyName:FuturaEF Book
+StyleName:Regular
+FullName:FuturaEF-Book
+MenuName:FuturaEF Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Almacenamiento\OneDrive\Biblioteca\JdR - RPG\Moderno - Modern\Unknown Armies\3rd edition\Statosphere\statosphere template\Document fonts\FuturaEF-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:25108
+FileModTime:1604336808
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,FuturaEF-Book
+NameArray:0,Win,1,FuturaEF Book
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaEF-DemiBoldObl
+FamilyName:FuturaEF DemiBoldObl
+StyleName:Regular
+FullName:FuturaEF-DemiBoldObl
+MenuName:FuturaEF DemiBoldObl
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Almacenamiento\OneDrive\Biblioteca\JdR - RPG\Moderno - Modern\Unknown Armies\3rd edition\Statosphere\statosphere template\Document fonts\FuturaEF-DemiBoldObl.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:26120
+FileModTime:1604336808
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,FuturaEF-DemiBoldObl
+NameArray:0,Win,1,FuturaEF DemiBoldObl
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FuturaEF-Heavy
+FamilyName:FuturaEF Heavy
+StyleName:Regular
+FullName:FuturaEF-Heavy
+MenuName:FuturaEF Heavy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Almacenamiento\OneDrive\Biblioteca\JdR - RPG\Moderno - Modern\Unknown Armies\3rd edition\Statosphere\statosphere template\Document fonts\FuturaEF-Heavy.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28060
+FileModTime:1604336808
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,FuturaEF-Heavy
+NameArray:0,Win,1,FuturaEF Heavy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:WhitechapelBB
+FamilyName:Whitechapel BB
+StyleName:Regular
+FullName:Whitechapel BB
+MenuName:Whitechapel BB
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Almacenamiento\OneDrive\Biblioteca\JdR - RPG\Moderno - Modern\Unknown Armies\3rd edition\Statosphere\statosphere template\Document fonts\whitechapelbb.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49996
+FileModTime:1604336808
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Whitechapel BB
+NameArray:0,Win,1,Whitechapel BB
+%EndFont
+
