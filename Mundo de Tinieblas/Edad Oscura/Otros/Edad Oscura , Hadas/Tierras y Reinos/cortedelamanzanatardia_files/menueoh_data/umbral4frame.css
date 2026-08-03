@@ -1,0 +1,55 @@
+body {
+  background:#3f6744;
+  background-image:url("fondo.jpg");
+  background-repeat:repeat-y;
+  margin:0;
+  padding:0px 0px;
+  font:x-small Times;
+  text-align:center;
+  color:#000000;
+  font-size:11px;
+  }
+a:link {
+  color:#333300;
+  text-decoration:none;
+  }
+a:visited {
+  color:#3f6744;
+  text-decoration:none;
+  }
+a:hover {
+  color:#68a69c;
+  text-decoration:none;
+  }
+a img {
+  border-width:0;
+  }
+table {
+  font-size:11px;
+  text-align:top;
+  }
+
+/* Headings
+----------------------------------------------- */
+h1 {
+  font:bold 100% CasablancaAntique;
+  font-size:30;
+  text-align:center;
+  color:#3f6744;
+  }
+h2 {
+  font:bold 100% Stonehenge;
+  font-size:18;
+  color:#3f6744;
+  }
+h3 {
+  font:bold 100% Stonehenge;
+  font-size:13;
+  color:#3f6744;
+  }
+h4 {
+  font:bold 100% Stonehenge;
+  font-size:18;
+  color:#3f6744;
+  text-align:center;
+  }
